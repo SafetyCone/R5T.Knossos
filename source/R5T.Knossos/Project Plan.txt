@@ -1,4 +1,6 @@
 R5T.Knossos - A database specification types library.
 
+Specification --(Is refined into)--> Info
+
 Goals
 
